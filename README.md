@@ -4,7 +4,7 @@
 
 react
 ```
-npm i @type/react @type/react-dom react react-dom
+npm i @types/react @types/react-dom react react-dom
 ```
 webpack
 ```
