@@ -20,3 +20,6 @@ tsc --init
 ```
 
 - webpack.config.js 作成
+
+参考リンク
+https://ics.media/entry/16329/#webpack-ts-react
